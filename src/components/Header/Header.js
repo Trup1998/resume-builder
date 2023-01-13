@@ -9,10 +9,10 @@ function Header() {
     <div className={styles.container}>
       <div className={styles.left}>
         <p className={styles.heading}>
-          A <span>Resume</span> that stands out!
+          E<span> -Resume</span> 
         </p>
         <p className={styles.heading}>
-          Make your own resume. <span>It's free</span>
+         <span></span>
         </p>
       </div>
       <div className={styles.right}>
